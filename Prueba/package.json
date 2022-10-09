@@ -1,0 +1,19 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "configuration package",
+  "main": "helloWorld.js",
+  "scripts": {
+    "test": "testPackage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016\u0016https://github.com/MartaMolinaGutierrez/PruebaFirebase"
+  },
+  "keywords": [
+    "Firebase",
+    "Deploy"
+  ],
+  "author": "Marta Molina Gutiérrez",
+  "license": "ISC"
+}
